@@ -114,11 +114,13 @@ Interactive slicers for dynamic filtering:
 
 
 
-## 📬 Contact
+## 🌐 Connect With Me
 
-**Khushal Singh Sankhla**  
+**Khushal Singh Sankhla**
+- GitHub: [khushal280804](https://github.com/khushal280804)
+- LinkedIn: [Khushal Singh Sankhla](https://www.linkedin.com/in/khushal-singh-sankhla/)
+- Email: khushalsinghsankhla203@gmail.com
+
 For queries, feedback, or collaboration, feel free to reach out.
-
----
 
 *This dashboard was created for analytical and educational purposes to demonstrate ecommerce sales performance insights using Power BI.*
